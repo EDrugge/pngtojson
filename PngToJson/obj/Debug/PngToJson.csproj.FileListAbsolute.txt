@@ -1,6 +1,0 @@
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\bin\Debug\PngToJson.exe.config
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\bin\Debug\PngToJson.exe
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\bin\Debug\PngToJson.pdb
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\obj\Debug\PngToJson.csprojResolveAssemblyReference.cache
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\obj\Debug\PngToJson.exe
-c:\users\tmgxemd\documents\visual studio 2015\Projects\PngToJson\PngToJson\obj\Debug\PngToJson.pdb
